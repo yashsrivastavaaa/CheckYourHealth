@@ -19,4 +19,31 @@ To run this project, ensure the following libraries are installed:
 - <b>numpy</b> - for numerical operations
 - <b>sklearn</b> - for machine learning algorithms
 
+## Commands to install libraries
+ 
+Customtkinter
+```bash
+pip install customtkinter
+```
+Tkinter 
+```bash 
+pip install tkinter
+```
+PIL 
+```bash
+pip install Pillow
+```
+Pandas
+```bash
+pip install pandas
+```
+Numpy
+```bash
+pip install numpy
+```
+sklearn
+```bash
+pip install scikit-learn
+```
+
 <br>CheckYourHealth blends technology and healthcare, making health insights accessible and understandable right from your desktop!
